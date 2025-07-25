@@ -404,9 +404,12 @@ get(index) {
 
 ### S010 김해원
 <details>
-  <summary> GPT 회고 피드백 (클릭) </summary>
+<summary> 
 
-**개선 제안 1**
+**개선 제안 1** 
+
+</summary>
+
 
 - \[학습]과 \[설계]는 묶고, 깊이보다 Breadth→Depth 전략
 
@@ -437,7 +440,14 @@ get(index) {
 러닝과 두잉으로 나누어서 체크리스트로 나누니 흐름이 잘 보였습니다.
 
 ---
+</details>
+
+<details>
+<summary> 
+
 **개선 제안 2**
+
+</summary>
 
 - 구현은 Top-down Strategy로 나누기
 
@@ -480,8 +490,14 @@ get(index) {
 ```
 
 ---
-**개선 제안 3**
 
+</details>
+
+<details>
+<summary> 
+
+**개선 제안 3**
+</summary>
 
 - 설계에 지나치게 많은 시간 소비
 
